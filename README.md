@@ -157,7 +157,7 @@ On California Housing real data (n=200, predicting house value from income):
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/bayesian-mcmc-regression
+git clone https://github.com/GHST0FSPARTA/bayesian-mcmc-regression
 cd bayesian-mcmc-regression
 pip install -r requirements.txt
 python main.py
